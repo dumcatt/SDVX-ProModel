@@ -13,7 +13,7 @@ Convert your Sound Voltex panel into a controller
 # Requirements
 - SDVX Control panel from a Nemsys Cabinet
 - Access to a Laser cutter that is at least 80x40cm big (or any laser cutting service)
-- Access to a 3D Printer
+- Access to a 3D Printer (or any 3D printing service)
 - Some mounting hardware
 - Electronics
 - DIY Skills (Mostly Woodworking)
