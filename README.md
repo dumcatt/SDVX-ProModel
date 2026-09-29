@@ -45,8 +45,9 @@ Convert your Sound Voltex panel into a controller
 | 30mm snap-in buttons | 2 | |
 | Cabinet Magnets | 4 | |
 | 3.5mm jack | 1 | |
-| 8mm wood | | |
-| 1mm acrylic | | |
+| Black Spray Paint | 1 | |
+| wood | | |
+| acrylic | | |
 | some filament | |
 
 # Lasercut Wood Parts
@@ -67,7 +68,6 @@ Convert your Sound Voltex panel into a controller
 | [FrontPlate.dxf](DXFs/FrontPlate.dxf)| 1 | 1mm | Requires engraving |
 | [HeadphonePlate.dxf](DXFs/HeadphonePlate.dxf)| 1 | 1mm | Requires Engraving|
 | [KFC deck sidepiece.dxf](DXFs/KFC%20deck%20sidepiece.dxf)| 2 | 3mm | Requires the use of a line bender (thanks to @jimjoy on discord) |
-| 
 
 # 3D Printed Parts
 
@@ -79,6 +79,12 @@ Convert your Sound Voltex panel into a controller
 
 # Assembly
 - Glue pieces together with wood glue
+- Spray paint the case
 - Secure the cabinet magnets and wedges with self tappers
+
+# Pics
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/293e5d70-3633-4c3c-9e97-b8e8b254284c" />
+<img width="400" height="300" alt="20260910_182151" src="https://github.com/user-attachments/assets/f73e2543-e53a-4755-8b57-f9948ebd50bf" />
+
 
 
