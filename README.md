@@ -37,7 +37,7 @@ Convert your Sound Voltex panel into a controller
 | Addressable LED Strip | 1 | 144/m |
 | M4x16 Screws | 14 | Hex or philips is fine |
 | M4 Tee Nuts | 8 | |
-| M4 Flange Nuts | 4 | |
+| M4 Flange Nuts | 6 | |
 | M3x16 Screws | 4 | |
 | M3 Nuts | 4 | |
 | M4x5 Self tap screws | 20 | | 
