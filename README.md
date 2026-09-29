@@ -67,7 +67,7 @@ Convert your Sound Voltex panel into a controller
 | :--:                       | :--: | :--: | :--: |
 | [FrontPlate.dxf](DXFs/FrontPlate.dxf)| 1 | 1mm | Requires engraving |
 | [HeadphonePlate.dxf](DXFs/HeadphonePlate.dxf)| 1 | 1mm | Requires Engraving|
-| [KFC deck sidepiece.dxf](DXFs/KFC%20deck%20sidepiece.dxf)| 2 | 3mm | Requires the use of a line bender (thanks to @jimjoy on discord) |
+| [KFC deck sidepiece.dxf](DXFs/KFC%20deck%20sidepiece.dxf)| 2 | 3mm | Requires the use of a line bender |
 
 # 3D Printed Parts
 
