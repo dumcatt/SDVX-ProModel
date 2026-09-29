@@ -18,7 +18,7 @@ Convert your Sound Voltex panel into a controller
 - Electronics
 - DIY Skills (Mostly Woodworking)
 
-# Helpful resources resources
+# Helpful resources
 -  [Rhythm Cons Wiki](https://rhythm-cons.wiki/w/Main_Page)
 -  [Cons&Stuff Discord](https://discord.com/invite/fknwz8s)
 -  [The original conversion](https://github.com/speedypotato/SDVX-Panel-Conversion)
