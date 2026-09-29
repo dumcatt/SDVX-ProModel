@@ -46,9 +46,9 @@ Convert your Sound Voltex panel into a controller
 | Cabinet Magnets | 4 | |
 | 3.5mm jack | 1 | |
 | Black Spray Paint | 1 | |
-| wood | | |
-| acrylic | | |
-| some filament | |
+| wood | | 8 and 4mm |
+| acrylic | | 1 and 3mm|
+| some filament | | PLA is fine|
 
 # Lasercut Wood Parts
 | Filename | Amount | Thickness | Notes |
