@@ -57,7 +57,7 @@ Convert your Sound Voltex panel into a controller
 | [Side.dxf](DXFs/Side.dxf)| 2 | 8mm | |
 | [Back.dxf](DXFs/Back.dxf)| 1 | 8mm | |
 | [FrontLeft.dxf](DXFs/FrontLeft.dxf)| 1 | 8mm | |
-| [FrontRight.dxf](DXFs/FrontRight.dxf)| 1 | 8mm | You can cut 2 if you dont want the headphone jack|
+| [FrontRight.dxf](DXFs/FrontRight.dxf)| 1 | 8mm | Cut 2 if you don't want the headphone jack|
 | [Front.dxf](DXFs/Front.dxf) | 1 | 8mm | |
 | [Center.dxf](DXfs/Center.dxf)| 2 | 8mm | |
 | [BottomCover.dxf](DXFs/BottomCover.dxf)| 1 | 4mm |
@@ -73,8 +73,8 @@ Convert your Sound Voltex panel into a controller
 
 | Filename | Amount | Notes |
 | :--:                       | :--: | :--: |
-| [LeftWedge.stl](STLs/LeftWedge.stl) | 1 | |
-| [RighttWedge.stl](STLs/RightWedge.stl) | 1 | |
+| [LeftWedge.stl](STLs/LeftWedge.stl) | 1 | Has the headphone jack slot |
+| [RightWedge.stl](STLs/RightWedge.stl) | 1 | Print 2 if you don't want the headphone jack  |
 | [USBPlate.stl](STLs/USBPlate.stl) | 1 | |
 
 # Assembly
